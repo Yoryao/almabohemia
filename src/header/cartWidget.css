@@ -1,0 +1,28 @@
+#carritoVacio {
+  padding-right: 10px;
+}
+
+#carritoVacio:hover {
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 5px;
+  display: inline-block;
+  height: 100%;
+  background-color: #e73b1d6b;
+}
+
+#carritoBtn {
+  background-color: chartreuse;
+  border-radius: 5px;
+  width: 60px;
+  height: 35px;
+}
+
+#carritoCantidad {
+  font-size: medium;
+}
+
+#carritoBtn:hover {
+  background-color: pink;
+  border: darkviolet;
+}
